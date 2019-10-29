@@ -1,0 +1,49 @@
+baseURL = "https://www.bhumipurohit.com"
+languageCode = "en-us"
+title = "Bhumi Purohit"
+theme = "hugo-resume"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+
+firstName = "Bhumi"
+
+lastName = "Purohit"
+
+address = "210 Barrows Hall, Berkeley, CA"
+
+phone = ""
+
+contactNote = "Ph.D. Candidate"
+
+profileImage = "img/TechChat.png"
+
+email = "bhumi.purohit@berkeley.edu"
+
+description = "Ph.D. Candidate, Political Science, UC Berkeley"
+
+favicon = "images/favicon.ico"
+
+showSkills = false
+
+showProjects = true
+
+showOpenSource = false
+
+showPublications = true
+
+showExperience = false
+
+showEducation = false
+
+showQr = false
+
+[[params.handles]]
+name = "Twitter"
+link = "https://www.twitter.com/bhumipurohit"
+icon = "twitter"
+
+[params.google.analytics]
+trackerID = "UA-150684503-1"
+

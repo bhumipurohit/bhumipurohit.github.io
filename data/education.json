@@ -1,0 +1,26 @@
+[
+    {
+        "school":"University of California, Berkeley",
+        "degree":"Ph.D",
+        "major":"Political Science",
+        "range":"Present"
+    },
+    {
+        "school":"University of California, Berkeley",
+        "degree":"Master of Science",
+        "major":"Political Science",
+        "range":"2018"
+    },
+    {
+        "school":"University of Oxford",
+        "degree":"Master of Science",
+        "major":"Area Studies: Contemporary India",
+        "range":"2015"
+    },
+    {
+        "school":"Duke University",
+        "degree":"Bachelor of Arts",
+        "major":"Public Policy and Documentary Studies",
+        "range":"2011"
+    }
+]

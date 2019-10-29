@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Bhumi Purohit</title>
+    <link>/publications/</link>
+    <description>Recent content in Research on Bhumi Purohit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Laments of Getting Things Done: The Case of Female Politicians and Bureaucrats in India</title>
+      <link>/publications/dissertation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/dissertation/</guid>
+      <description>My dissertation seeks to create a comprehensive theory of how administrative elites react to the entry of minorities, especially women, into political institutions and how their reactions impact policy outputs in minority-led constituencies. When bureaucrats have negative attitudes about the capability of women as leaders, under what conditions do they exercise discretion in policy implementation? What are the implications for minority politicians when bureaucrats exercise discretion and how do these politicians react?</description>
+    </item>
+    
+    <item>
+      <title>Bang for the Buck : Reforms to Maximize Public Funding Outcomes in India (With A. Santosh Mathew)</title>
+      <link>/publications/bangforbuck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/bangforbuck/</guid>
+      <description>Public finance management, or PFM, refers to the rules, systems, and processes that govern revenues, allocations of funds, expenditure, accounting, and auditing of public finances. Without financial resources to run programs, public service delivery will consistently fail, and many have argued it has in India. Somewhere in the pipeline of the government allocating resources and beneficiaries receiving services, public funds remain unspent, leak out of the system or fail to yield results.</description>
+    </item>
+    
+    <item>
+      <title>Are Incentives Universally Effective? (With Cecilia H. Mo and Katharine Conn)</title>
+      <link>/publications/incentives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/incentives/</guid>
+      <description>Do survey incentives that improve response rates in the United States and the Global North perform just as well in other countries? Studies on web survey recruitment have largely come to a conclusion that monetary incentives recruit a higher share of respondents than non-monetary responses. Though these findings largely come from the U.S. or Europe, scholars in other regions have relied on similar monetary incentives such as gifts or lotteries to recruit respondents.</description>
+    </item>
+    
+    <item>
+      <title>The (Null) Marriage Effect : Voters’ Indifference to Marital Status of Female Candidates in India.</title>
+      <link>/publications/marriageeffect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/marriageeffect/</guid>
+      <description>In countries that regard marriage to be of high importance, why do we see so many unmarried or widowed female candidates? To test whether this is a result of demand-based effects, I test this puzzle through a large-scale conjoint experiment in India. I find that though research to date suggests voters prefer married female candidates, voters in the urban Indian setting are indifferent to women&amp;rsquo;s marital status. Rather, voters overwhelmingly decide on female candidates based on their party affiliation, along with dynastic status and profession.</description>
+    </item>
+    
+  </channel>
+</rss>
