@@ -1,4 +1,4 @@
-baseURL = "https://www.bhumipurohit.com"
+baseURL = "https://www.bhumipurohit.com/"
 languageCode = "en-us"
 title = "Bhumi Purohit"
 theme = "hugo-resume"
