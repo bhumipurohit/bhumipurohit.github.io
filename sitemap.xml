@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/bhumipurohit.github.io/publications/dissertation/</loc>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/bhumipurohit.github.io/publications/bangforbuck/</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/bhumipurohit.github.io/publications/incentives/</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/bhumipurohit.github.io/publications/marriageeffect/</loc>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>/bhumipurohit.github.io/</loc>
+    <lastmod>2019-10-21T18:56:13-05:00</lastmod>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>/bhumipurohit.github.io/categories/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/bhumipurohit.github.io/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/bhumipurohit.github.io/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/bhumipurohit.github.io/post/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/bhumipurohit.github.io/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/bhumipurohit.github.io/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/bhumipurohit.github.io/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/bhumipurohit.github.io/tags/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/bhumipurohit.github.io/projects/</loc>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/bhumipurohit.github.io/publications/</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/bhumipurohit.github.io/search/</loc>
+    <priority>0.1</priority>
+  </url>
+  
+</urlset>
