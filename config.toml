@@ -1,4 +1,4 @@
-baseURL = "https://www.bhumipurohit.com/"
+baseURL = "https://bhumipurohit.com/"
 languageCode = "en-us"
 title = "Bhumi Purohit"
 theme = "hugo-resume"
@@ -36,6 +36,8 @@ showPublications = true
 showExperience = false
 
 showEducation = false
+
+showBlog = true
 
 showQr = false
 
