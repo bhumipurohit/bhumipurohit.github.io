@@ -1,6 +1,6 @@
 ---
 title: "Datasets & Funding for South Asia"
-date: "October 30, 2019"
+date: "November 10, 2019"
 ---
 ***
 #### Datasets on South Asia
@@ -17,10 +17,10 @@ For additional sources, check out UCLA's excellent [Graduate Education database]
 ##### General Grants with deadline cycles
 * [Horowitz Foundation's Social Policy Grant](https://www.horowitz-foundation.org/apply): fall 
 * [Woodrow Wilson Dissertation Fellowship in Women's Studies](https://woodrow.org/fellowships/womens-studies/): fall
-* [SSRC's International Dissertation Reserach Fellowship](https://www.ssrc.org/fellowships/view/idrf-fellowship/): fall
+* [SSRC's International Dissertation Research Fellowship](https://www.ssrc.org/fellowships/view/idrf-fellowship/): fall
 * [IZA/DFID's GLM|LIC program with a focus on gender & the labor market](https://glm-lic.iza.org/): fall
 * [J-PAL Governance Initiative Grant](https://www.povertyactionlab.org/GI): fall and spring 
-* [The Weiss Fund for Reserach in Development Economics](https://projects.iq.harvard.edu/wfrde/applying-for-funding): fall and spring cycles
+* [The Weiss Fund for Research in Development Economics](https://projects.iq.harvard.edu/wfrde/applying-for-funding): fall and spring cycles
 * [CEGA's Development Economics Challenge Grants](https://cega.berkeley.edu/): fall and spring
 * [NSF's Doctoral Dissertation Reserach Improvement Grant](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505214&org=NSF): spring
 * [SSRC's Social Media and Democracy Research Grant](https://www.ssrc.org/fellowships/view/social-media-and-democracy-research-grants/): spring
