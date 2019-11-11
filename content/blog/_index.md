@@ -4,7 +4,6 @@ sitemap:
   priority : 0.2
 ---
 ***
-***
 #### Datasets on South Asia
 * Columbia University maintains a fantastic list of datasets for [India](https://guides.library.columbia.edu/sasia-india/data), [Nepal](http://guides.library.columbia.edu/sasia-nepal/data), and [Sri Lanka](http://guides.library.columbia.edu/sasia-srilanka/data)
 * Berkeley also has a list of [datasets for South Asia](https://guides.lib.berkeley.edu/az.php?s=4564)
