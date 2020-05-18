@@ -1,5 +1,5 @@
 ---
-title: "Bang for the Buck : Reforms to Maximize Public Funding Outcomes in India (With A. Santosh Mathew)"
+title: "Bang for the Buck : Reforms to Maximize Public Funding Outcomes in India (With A. Santosh Mathew and Devesh Sharma)"
 date: 
 pubtype: "Working Book Manuscript, accepted by Oxford University Press India"
 featured: true
